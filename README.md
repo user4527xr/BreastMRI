@@ -45,8 +45,6 @@ The study was developed and validated on a large multicenter dataset and evaluat
 
 ## Released Resources
 
-To keep this repository lightweight, **model checkpoints** and **example metadata files** are provided via **Baidu Netdisk**. 
-
 ### 1. Breast Diagnosis
 
 - **Code directory**: `Breast_diagnosis/`
