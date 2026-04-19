@@ -65,8 +65,6 @@ The study was developed and validated on a large multicenter dataset and evaluat
 - **Baidu Netdisk**: [Baidu Netdisk Link](https://pan.baidu.com/s/xxxxxxxxxxxx)
 
 
-> Please replace the links and extraction codes above with your final public download links.
-
 ## Environment Setup
 
 We recommend **Python 3.10** and **PyTorch with CUDA support**.
