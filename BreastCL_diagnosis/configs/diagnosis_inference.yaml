@@ -1,0 +1,20 @@
+experiment_name: BreastCL
+seed: 0
+
+data:
+  csv_path: /home/csexrjiang/1/BreastCL_F/BreastCL_F/data_csv/example_test.csv
+  data_root: /home/csexrjiang/1/BreastCL_F/BreastCL_F/data_csv/examples
+  num_workers: 4
+  batch_size: 2
+
+model:
+  t2_model_tag: ResNet18
+  dwi_model_tag: ResNet18
+  dce_model_tag: ResNet34
+  fusion_tag: mask_vit_withbn
+  num_classes: 2
+  checkpoint_path: /home/csexrjiang/1/BreastCL_F/BreastCL_F/checkpoints/diagnosis_model.th
+
+runtime:
+  device: cuda:0
+  output_dir: outputs/diagnosis_inference

@@ -1,0 +1,3 @@
+﻿,DWI,T2,SUB_concate,BIRADS,malignant
+0,test/case_001/dwi/dwi_b1000.npy,test/case_001/t2/t2.npy,test/case_001/sub_concate/sub_concate.npy,5,1
+1,test/case_002/dwi/dwi_b1000.npy,test/case_002/t2/t2.npy,test/case_002/sub_concate/sub_concate.npy,4,0
