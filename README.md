@@ -62,7 +62,7 @@ The study was developed and validated on a large multicenter dataset and evaluat
 - **Released resources**:
   - report generation model checkpoint
   - report-generation `datacsv` examples
-- **Baidu Netdisk**: [Baidu Netdisk Link](https://pan.baidu.com/s/xxxxxxxxxxxx)
+- **Baidu Netdisk**: [Baidu Netdisk Link](https://pan.baidu.com/s/1VivDEA8COctru5Z3YspzzA?pwd=skei 提取码: skei)
 
 
 ## Environment Setup
