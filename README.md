@@ -54,7 +54,7 @@ To keep this repository lightweight, **model checkpoints** and **example metadat
 - **Released resources**:
   - diagnosis model checkpoint
   - diagnosis `data_csv` examples
-- **Baidu Netdisk**: [Baidu Netdisk Link](https://pan.baidu.com/s/xxxxxxxxxxxx)
+- **Baidu Netdisk**: [Baidu Netdisk Link](https://pan.baidu.com/s/1W9WaIdl4hdiOQIX8W75M7w?pwd=8nag 提取码: 8nag)
 
 
 ### 2. Breast Report Generation
